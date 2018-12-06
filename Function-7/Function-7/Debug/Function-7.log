@@ -1,0 +1,4 @@
+﻿  example.c
+c:\users\조현동\source\repos\function-7\function-7\example.c(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  Function-7.vcxproj -> C:\Users\조현동\source\repos\Function-7\Debug\Function-7.exe

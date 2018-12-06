@@ -1,0 +1,7 @@
+﻿  Dist_2dFunction.cpp
+c:\users\조현동\source\repos\cstudy\dist_2d\dist_2d\dist_2dfunction.cpp(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\조현동\source\repos\cstudy\dist_2d\dist_2d\dist_2dfunction.cpp(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\조현동\source\repos\cstudy\dist_2d\dist_2d\dist_2dfunction.cpp(20): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Dist_2d.vcxproj -> C:\Users\조현동\source\repos\Cstudy\Dist_2d\Debug\Dist_2dFunction.exe

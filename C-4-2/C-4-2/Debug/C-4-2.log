@@ -1,0 +1,3 @@
+﻿  FloatError.c
+c:\users\조현동\source\repos\c-4-2\c-4-2\floaterror.c(13): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+  C-4-2.vcxproj -> C:\Users\조현동\source\repos\C-4-2\Debug\C-4-2.exe
